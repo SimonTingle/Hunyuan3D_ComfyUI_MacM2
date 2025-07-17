@@ -1,0 +1,9 @@
+torch==2.1.2
+torchvision
+opencv-python
+transformers
+numpy
+Pillow
+matplotlib
+tqdm
+gradio
